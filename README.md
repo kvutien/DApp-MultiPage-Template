@@ -1,6 +1,8 @@
 ### DApp-MultiPage-Template ###
 >A template for Ethereum-based  DApp.
 
+Forked from [https://github.com/pankeshpatel/DApp-MultiPage-Template](https://github.com/pankeshpatel/DApp-MultiPage-Template), January 12, 2021. It has the same folder structure as [kickstarter](https://github.com/far1s/ethereum-kickstarter), it is a coincidence? It is probably derived from the other and modified, because its last date is later. To be analysed to understand how to use `Factory` design pattern and ERC-721 Non Fungible Tokens. It uses React. It has not been touched since 2 years.
+
 ### A  directory layout
 
 - `components`              --  common UI components of a web page such as header, footer  
